@@ -9,22 +9,22 @@ iframe {
 }
 
 .j{
-    width: 200px; height:50px; bottom: 0;
+    width: 200px; height:90px; bottom: 0;
     position: fixed;background-color:#fff; 
-    left: 0; border-radius: 0 25px 0 0;
+    left: 0; border-radius: 0 50px 0 0;
   }
   .j-1{
-    width: 50px; height:200px; bottom: 0;
-    position: fixed;background-color:#fff; 
-    left: 0; border-radius: 0 25px 0 0;
+    width: 20px; height:100%; bottom: 0;
+    position: fixed;background:#fff; 
+    left: 0;
   }
   .k{
-    width: 200px; height:50px; bottom: 0;
+    width: 200px; height:90px; bottom: 0;
     position: fixed;background-color:#fff;
-    right: 0; border-radius: 25px 0 0 0;
+    right: 0; border-radius: 50px 0 0 0;
   }
   .k-1{
-    width: 50px; height:200px; bottom: 0;
-    position: fixed;background-color:#fff;
-    right: 0; border-radius: 25px 0 0 0;
+    width: 20px; height:100%; bottom: 0;
+    position: fixed;background:#fff;
+    right: 0;
   }
